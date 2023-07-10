@@ -1,0 +1,74 @@
+#countNumber {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+.counter-button-group {
+    display: flex;
+    justify-content: space-around;
+
+    .counter-button {
+        width: 9em;
+        height: 4rem;
+        margin: 1rem;
+        align-items: center;
+    }      
+}
+
+#eventDiv {
+    background-color: cornflowerblue;
+    width: 10rem;
+    height: 10rem
+}
+
+#handlingDiv {
+    margin-top: 3rem;
+    background-color: darkgray;
+    width: 10rem;
+    height: 10rem;
+    border: 1px solid;
+}
+
+#divGroup {
+    margin-top: 5rem;
+    background-color: darkgray;
+    width: 20rem;
+    height: 20rem;
+}
+
+#funkyShrek {
+    width: 30rem;
+}
+
+#movableBox {
+    margin-top: 3rem;
+    background-color: coral;
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+}
+
+#animationDiv{
+    margin-top: 2rem;
+    background-color: darkslateblue;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+#canvasApi{
+    border: 1px solid black;
+    background-color: cornflowerblue;
+}
+
+#canvasApi2{
+    border: 1px solid black;
+    background-color: cornflowerblue;
+}
+
+#windowDiv{
+    width: 1000px;
+    height: 1000px;
+    background-color: lightblue;
+}

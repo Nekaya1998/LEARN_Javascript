@@ -1,0 +1,21 @@
+#gameDiv{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 3px solid;
+    padding: 20px;
+    border-radius: 25px;
+    background-color:grey;
+    text-align: center;
+}
+
+.choice-button{
+    line-height: 30px;
+    width: 150px;
+}
+
+#playerText{
+    color:coral;
+}
+
+#computerText{
+    color:darkred;
+}
